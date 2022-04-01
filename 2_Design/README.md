@@ -1,2 +1,18 @@
-         
-                            ![resistor_color_calculator_image](https://user-images.githubusercontent.com/93699185/161215939-85bd3eea-8d75-46d5-b01f-49a9c1836c35.png)
+ <p align="center">
+  <img alt="resitor-color-calculator" src="assets/resistor_color_calculator_thumb.png" width="200" height="200">
+</p>
+
+<h1 align="center">Resistor Color Calculator</h1>
+
+<p align="center">
+ <a href="https://circleci.com/gh/raajnadar/resistor-color-calculator">
+  <img src="https://img.shields.io/circleci/project/github/raajnadar/resistor-color-calculator/master.svg?style=for-the-badge" />
+ </a>
+ <a href="https://github.com/raajnadar/resistor-color-calculator/blob/master/LICENSE.md">
+  <img src="https://img.shields.io/github/license/raajnadar/resistor-color-calculator?color=red&style=for-the-badge" />
+ </a>
+</p>
+
+Having a hard time to get the value of a resistor?
+Why waste your time by calculating ?. If this project helped you make sure you leave a star on this repository.
+**Currently it only supports 4 band resistor color.**
