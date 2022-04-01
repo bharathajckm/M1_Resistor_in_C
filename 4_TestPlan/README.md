@@ -4,7 +4,9 @@ The resistor with color code LNVR has a value of 16806152 Ohms.
 
 # Steps to execute vs 
 PS C:\Users\AJ\OneDrive\Desktop\Project> gcc .\resistor.c
+
 PS C:\Users\AJ\OneDrive\Desktop\Project> ./a
+
 This program will calculate the value of a resistor.
 
 B = Black
