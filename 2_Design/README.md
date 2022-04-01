@@ -9,3 +9,8 @@ Having a hard time to get the value of a resistor?
 Why waste your time by calculating ? If this project helped you make sure you leave a star on this repository.
 **Currently it only supports 4 band resistor color.**
 
+
+## Usage
+
+Go to the (https://github.com/bharathajckm/M1_Resistor_in_C) 
+select the color in the proper sequence & get the correct value of the resistor that's it. We made it as simple as possible to get the desired output.
