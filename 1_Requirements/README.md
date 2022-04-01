@@ -27,15 +27,25 @@ times to compute the numeric value of your resistor.
 The table given is as follows:
 
 Character Color Band Value Multiplier
+
 B Black 0 1
+
 N Brown 1 10
+
 R Red 2 100
+
 O Orange 3 1K
+
 Y Yellow 4 10K
+
 G Green 5 100K
+
 L Blue 6 1M
+
 V Violet 7 10M
+
 E Gray 8
+
 W White 9
 
 ## 4W's and 1'H
