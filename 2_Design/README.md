@@ -6,6 +6,6 @@
 
 
 Having a hard time to get the value of a resistor?
-Why waste your time by calculating ?. If this project helped you make sure you leave a star on this repository.
+Why waste your time by calculating ? If this project helped you make sure you leave a star on this repository.
 **Currently it only supports 4 band resistor color.**
 
