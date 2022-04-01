@@ -4,7 +4,7 @@ Naming convention: "M1_Find out Resistor value"
 ## Badges
 | Names | Badges |
 | ------|:-------|
-| analysis | [![Build CI - Linux](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/analysis.yml)|(https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/analysis.yml)
+| analysis | [![Build CI - Linux](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/analysis.yml)](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/analysis.yml)
 | CPPCheck Analysis | [![Cppcheck Analysis](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/c-cpp.yml)](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/c-cpp.yml) |
 | build on Windows  | [![build on Windows  ](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/build_on_Windows.yml)](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/build_on_Windows.yml) |
 | makefile | [![makefile](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/makefile.yml)](https://github.com/bharathajckm/M1_Resistor_in_C/blob/main/.github/workflows/makefile.yml) |
