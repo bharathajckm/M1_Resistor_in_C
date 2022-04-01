@@ -1,12 +1,9 @@
-<p align="center">
-  <![resistor_color_calculator_image](https://user-images.githubusercontent.com/93699185/161216496-ad3ceadf-37c2-4588-a77c-99488f21568c.png)>
-
-</p>
-
 <h1 align="center">Resistor Color Calculator</h1>
+       
 
 
- 
+ ![resistor_color_calculator_image](https://user-images.githubusercontent.com/93699185/161216714-9864e9ef-6aa4-4fb4-9711-7fa7b2068b76.png)
+
 
 Having a hard time to get the value of a resistor?
 Why waste your time by calculating ?. If this project helped you make sure you leave a star on this repository.
