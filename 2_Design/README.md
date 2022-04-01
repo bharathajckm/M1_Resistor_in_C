@@ -9,6 +9,10 @@ Having a hard time to get the value of a resistor?
 Why waste your time by calculating ? If this project helped you make sure you leave a star on this repository.
 **Currently it only supports 4 band resistor color.**
 
+# FlowChart
+![FlowChart](https://user-images.githubusercontent.com/93699185/161288841-81dba154-2386-4c61-a959-b336bcea0f24.jpeg)
+
+
 
 ## Usage
 
