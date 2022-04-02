@@ -1,6 +1,11 @@
 # M1_Resistor_in_C
 Naming convention: "M1_Find out Resistor value"
 
+## Badges
+
+* ![code quality score](https://api.codiga.io/project/32462/score/svg)
+* ![code grade](https://api.codiga.io/project/32462/status/svg)
+
 
 ## Folder Structure
 | Folder | Description |
